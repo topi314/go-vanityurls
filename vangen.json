@@ -1,13 +1,13 @@
 {
-  "domain": "go.topi.wtf",
+  "domain": "go.gopad.dev",
   "docsDomain": "pkg.go.dev",
   "index": true,
   "repositories": [
     {
-      "prefix": "go-vanityurls",
-      "url": "https://github.com/topi314/go-vanityurls",
+      "prefix": "gopad",
+      "url": "https://github.com/gopad-dev/gopad",
       "website": {
-        "url": "https://github.com/topi314/go-vanityurls"
+        "url": "https://github.com/gopad-dev/gopad"
       }
     }
   ]
