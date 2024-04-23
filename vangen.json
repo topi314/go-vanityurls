@@ -1,0 +1,14 @@
+{
+  "domain": "go.topi.wtf",
+  "docsDomain": "pkg.go.dev",
+  "index": true,
+  "repositories": [
+    {
+      "prefix": "go-vanityurls",
+      "url": "https://github.com/topi314/go-vanityurls",
+      "website": {
+        "url": "https://github.com/topi314/go-vanityurls"
+      }
+    }
+  ]
+}
