@@ -9,6 +9,13 @@
       "website": {
         "url": "https://github.com/gopad-dev/gopad"
       }
+    },
+    {
+      "prefix": "go-tree-sitter",
+      "url": "https://github.com/gopad-dev/go-tree-sitter",
+      "website": {
+        "url": "https://github.com/gopad-dev/go-tree-sitter"
+      }
     }
   ]
 }
