@@ -23,6 +23,13 @@
       "website": {
         "url": "https://github.com/gopad-dev/fuzzysearch"
       }
+    },
+    {
+      "prefix": "go-tree-sitter-highlight",
+      "url": "https://github.com/gopad-dev/go-tree-sitter-highlight",
+      "website": {
+        "url": "https://github.com/gopad-dev/go-tree-sitter-highlight"
+      }
     }
   ]
 }
